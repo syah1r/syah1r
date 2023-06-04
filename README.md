@@ -6,7 +6,7 @@
 
 🌱 I am currently exploring full stack development, specifically with C# and JavaScript.
 
-📫 Reach me at [linkedin.com/in/syahir21](https://www.linkedin.com/in/syahir21/).
+📫 Reach me at [linkedin.com/in/syahir21](https://www.linkedin.com/in/syahir21/)
 
 🖥️ Check out my website at [syah1r.github.io](https://syah1r.github.io/my-portfolio/) (still updating!)
 
@@ -17,7 +17,7 @@ I mostly perform analytics using Python, SQL and Power BI.
 
 
 ### Backend Projects
-Stay tuned for more C# related projects
+Stay tuned for more C# related projects.
   - C# (.NET Framework)
     - ✔️ [Calculator App](https://github.com/syah1r/calculator-app)
 
