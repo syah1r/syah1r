@@ -8,7 +8,7 @@
 
 📫 Reach me at [linkedin.com/in/syahir21](https://www.linkedin.com/in/syahir21/)
 
-🖥️ Check out my website at https://syah1r.github.io/my-portfolio/ (still updating!)
+🖥️ Check out my website at syah1r.github.io/my-portfolio/ (still updating!)
 
 ### Data Analytics Projects
   - Data Visualisations on Power BI 
