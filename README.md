@@ -12,10 +12,11 @@
 
 ### Data Analytics Projects
   - Data Visualisations on Power BI 
-    ✔️ xxx
+    - ✔️ https://github.com/syah1r/calculator-app
 
 
 ### Backend Projects
-  - Data Visualisations on Power BI 
-    ✔️ https://github.com/syah1r/calculator-app
+  - C# (.NET Framework)
+    - ✔️ https://github.com/syah1r/calculator-app
+
 
