@@ -2,13 +2,13 @@
 
 ### About me
 
-👐 My name is [Syahir Zuraidin](https://www.linkedin.com/in/syahir21/), and I am an engineer turned data analyst from Malaysia!
+👐 My name is [Syahir Zuraidin](https://www.linkedin.com/in/syahir21/), and I am an engineer turned data analyst from Malaysia. 
 
-🌱 I am currently exploring full stack development, specifically using C# and JavaScript.
+🌱 I am currently exploring full stack development, specifically with C# and JavaScript.
 
 📫 Reach me at [linkedin.com/in/syahir21](https://www.linkedin.com/in/syahir21/)
 
-🖥️ Check out my website at syah1r.github.io/my-portfolio/ (still updating!)
+🖥️ Check out my website at [syah1r.github.io](https://syah1r.github.io/my-portfolio/) (still updating!)
 
 ### Data Analytics Projects
   - Data Visualisations on Power BI 
@@ -17,6 +17,6 @@
 
 ### Backend Projects
   - C# (.NET Framework)
-    - ✔️ https://github.com/syah1r/calculator-app
+    - ✔️ [Calculator App] (https://github.com/syah1r/calculator-app)
 
 
