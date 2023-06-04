@@ -14,7 +14,7 @@
 I mostly perform analytics using Python, SQL and Power BI.
   - Data Visualisations on Power BI 
     - ✔️ [COVID-19 Global Cases](https://github.com/syah1r/covid19-powerbi)
-    - ✔️ [Email Campaign Performance]([https://github.com/syah1r/covid19-powerbi](https://github.com/syah1r/marketing-campaign-pbi))
+    - ✔️ [Email Campaign Performance]([https://github.com/syah1r/covid19-powerbi](https://github.com/syah1r/marketing-campaign-pbi)
 
 
 ### Backend Projects
