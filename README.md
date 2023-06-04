@@ -6,12 +6,12 @@
 
 🌱 I am currently exploring full stack development, specifically with C# and JavaScript.
 
-📫 Reach me at [linkedin.com/in/syahir21](https://www.linkedin.com/in/syahir21/)
+📫 Reach me at [linkedin.com/in/syahir21](https://www.linkedin.com/in/syahir21/).
 
 🖥️ Check out my website at [syah1r.github.io](https://syah1r.github.io/my-portfolio/) (still updating!)
 
 ### Data Analytics Projects
-I mostly perform analytics using Python, SQL and Power BI
+I mostly perform analytics using Python, SQL and Power BI.
   - Data Visualisations on Power BI 
     - ✔️ [COVID-19 Global Cases](https://github.com/syah1r/covid19-powerbi)
 
