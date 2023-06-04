@@ -11,12 +11,14 @@
 🖥️ Check out my website at [syah1r.github.io](https://syah1r.github.io/my-portfolio/) (still updating!)
 
 ### Data Analytics Projects
+I mostly perform analytics using Python, SQL and Power BI
   - Data Visualisations on Power BI 
-    - ✔️ https://github.com/syah1r/calculator-app
+    - ✔️ [COVID-19 Global Cases](https://github.com/syah1r/covid19-powerbi)
 
 
 ### Backend Projects
+Stay tuned for more C# related projects
   - C# (.NET Framework)
-    - ✔️ [Calculator App] (https://github.com/syah1r/calculator-app)
+    - ✔️ [Calculator App](https://github.com/syah1r/calculator-app)
 
 
